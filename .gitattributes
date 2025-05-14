@@ -1,0 +1,2 @@
+Ex1/epoch_30.pth filter=lfs diff=lfs merge=lfs -text
+Ex2/work_dir/best_model.pth filter=lfs diff=lfs merge=lfs -text
